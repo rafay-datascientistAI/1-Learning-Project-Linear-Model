@@ -1,35 +1,36 @@
-# Simple Linear Model
+# Simple Neural Network Model
 
-This project demonstrates a basic implementation of a simple linear model using Python. The goal of this project is to understand the fundamentals of machine learning model building, training, and prediction.
+This project demonstrates a basic implementation of a Simple Neural Network using Python. The goal of this project is to understand the fundamental concepts of neural networks, including model architecture, training, and prediction.
 
 ## Project Overview
-In this project, a simple linear model is built and trained on sample data to learn the relationship between input features and target values. This project is part of my learning journey in data science and machine learning.
+In this project, a simple neural network is built and trained on a dataset to learn patterns in the data and make predictions. This project is part of my learning journey in Machine Learning and Artificial Intelligence.
 
 ## Technologies Used
 - Python
 - Jupyter Notebook
-- NumPy
 - PyTorch
+- NumPy
 
-## What This Project Shows
-- Data preparation
-- Building a simple linear model
-- Training the model
-- Making predictions
-- Evaluating model performance
+## Model Features
+- Basic neural network architecture
+- Forward pass and prediction
+- Model training
+- Loss calculation
+- Performance evaluation
 
 ## Files in this Repository
-- `Project_1_simple NN.ipynb` — Jupyter Notebook containing the complete code
+- `Project_1_simple NN.ipynb` — Jupyter Notebook containing the full implementation
 - `README.md` — Project description
+- `Linear Model.pth` — Saved Model
 
 ## How to Run
-1. Clone the repository
+1. Clone this repository
 2. Open the notebook in Jupyter Notebook
-3. Run the cells step by step to see the model training and predictions
+3. Run the cells step by step to train and test the model
 
 ## Purpose
-The purpose of this project is to practice the basic concepts of machine learning and understand how linear models work.
+The purpose of this project is to practice the basic concepts of neural networks and understand how deep learning models are implemented.
 
 ---
 
-⭐ This is one of my first machine learning projects as I begin my journey in Data Science and Artificial Intelligence.
+⭐ This is one of my early projects as I begin exploring Deep Learning and Data Science.
