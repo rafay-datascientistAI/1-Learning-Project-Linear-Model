@@ -9,7 +9,7 @@ In this project, a simple linear model is built and trained on sample data to le
 - Python
 - Jupyter Notebook
 - NumPy
-- PyTorch / Scikit-learn (depending on what you used)
+- PyTorch
 
 ## What This Project Shows
 - Data preparation
@@ -19,7 +19,7 @@ In this project, a simple linear model is built and trained on sample data to le
 - Evaluating model performance
 
 ## Files in this Repository
-- `linear_model.ipynb` — Jupyter Notebook containing the complete code
+- `Project_1_simple NN.ipynb` — Jupyter Notebook containing the complete code
 - `README.md` — Project description
 
 ## How to Run
